@@ -5,6 +5,6 @@ This script if ran on a computer will allow the user to spam any chat. Once the 
 
 Below is an example this when I spammed my own personal Slack chat:
 
-![Slack](https://github.com/rjones18/Images/blob/main/spam_slack.png)
+![Slack](https://github.com/rjones18/Images/blob/main/slack_spam.png)
 
 
